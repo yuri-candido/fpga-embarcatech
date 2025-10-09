@@ -1,0 +1,7 @@
+v 4
+file . "tb_alarme.vhd" "8c8eb1e1d194b0f7cc4ab790a0e108376c7dac1b" "20250827142059.753":
+  entity tb_alarme at 2( 41) + 0 on 13;
+  architecture test of tb_alarme at 10( 227) + 0 on 14;
+file . ".\alarme.vhd" "4aa0e70bfca4338009d9cb9db615faff7f2d1301" "20250827142037.837":
+  entity alarme at 2( 64) + 0 on 11;
+  architecture logica of alarme at 16( 512) + 0 on 12;
