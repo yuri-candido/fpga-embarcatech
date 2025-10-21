@@ -1,0 +1,7 @@
+v 4
+file . "tb_expressao_logica.vhd" "951f18a247718e002f234feea525b66adebcf9cf" "20250727143858.243":
+  entity tb_expressao_logica at 1( 0) + 0 on 13;
+  architecture sim of tb_expressao_logica at 7( 86) + 0 on 14;
+file . "expressao_logica.vhd" "bd5a097e02ea9cff6ef51a8f527e168a30e7e559" "20250727143858.086":
+  entity expressao_logica at 1( 0) + 0 on 11;
+  architecture rtl of expressao_logica at 11( 174) + 0 on 12;
