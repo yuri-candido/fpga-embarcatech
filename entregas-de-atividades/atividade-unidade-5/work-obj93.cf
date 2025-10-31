@@ -1,0 +1,10 @@
+v 4
+file . "tb_reg8.vhd" "6568f223628c10267f6c0639d780fe542a0cbe71" "20250920201430.104":
+  entity tb_reg8 at 1( 0) + 0 on 15;
+  architecture arquitetura3 of tb_reg8 at 7( 82) + 0 on 16;
+file . "flipflop.vhd" "52a5a327a97eda5463ef1a5483b086a3f0a8c7ae" "20250920200751.593":
+  entity flipflop at 1( 0) + 0 on 11;
+  architecture arquitetura of flipflop at 13( 223) + 0 on 12;
+file . "reg8.vhd" "1cbdf87020d29263925f773204eaeb0140035774" "20250920200832.333":
+  entity reg8 at 1( 0) + 0 on 13;
+  architecture arquitetura2 of reg8 at 13( 370) + 0 on 14;

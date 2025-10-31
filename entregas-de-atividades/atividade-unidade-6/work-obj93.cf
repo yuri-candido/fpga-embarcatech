@@ -1,0 +1,7 @@
+v 4
+file . "tb_fsm_porta.vhd" "d3ef27f68e353c2fa36369f60d86e7b08f7a50fc" "20251006014133.573":
+  entity tb_fsm_porta at 1( 0) + 0 on 13;
+  architecture test of tb_fsm_porta at 7( 92) + 0 on 14;
+file . "fsm_porta.vhd" "ed245c2f489e036c44f009adf0657e0edb988b66" "20251006014133.572":
+  entity fsm_porta at 1( 0) + 0 on 11;
+  architecture behavioral of fsm_porta at 22( 636) + 0 on 12;
